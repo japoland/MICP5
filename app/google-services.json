@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "754296666382",
+    "firebase_url": "https://micp5-88460.firebaseio.com",
+    "project_id": "micp5-88460",
+    "storage_bucket": "micp5-88460.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754296666382:android:7f9d33fb3be11771",
+        "android_client_info": {
+          "package_name": "com.example.micp5firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754296666382-voqfhrtfdvb4i3fokjia4hjpr7a5o8jb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZJO1Tvel3WXmIlgXevKk3JiMyzMupl7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754296666382-voqfhrtfdvb4i3fokjia4hjpr7a5o8jb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
